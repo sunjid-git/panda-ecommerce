@@ -1,0 +1,58 @@
+.rounded-corner{
+    border-radius: 15px;
+}
+.col-md-4 img{
+    width: 100px;
+    padding: 10px 0;
+}
+.col-md-7 .buy-btn{
+    background-color: #FF3C89;
+    color: white;
+    margin: 8px;
+}
+input {
+    border: 0;
+    background-color: white;
+}
+.card .buy-btn{
+    background-color: #FF3C89;
+    color: white;
+    margin: 8px;
+}
+.stay .buy-btn{
+    background-color: #FF3C89;
+    color: white;
+    margin: 8px;
+}
+
+.col-md-4 h1{
+    color: white;
+}
+.new-button-style{
+    background-color: #FEEAE9;
+}
+.changed-footer-color{
+    background-color: white;
+}
+.price{
+    color: #FF3C89;;
+}
+.watch{
+    background-color: #FFA500;
+}
+.bag{
+   background-color: #DA70D6;
+}
+.shoes{
+    background-color: #0000FF;
+}
+.stay-touched{
+    height: 350px;
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
